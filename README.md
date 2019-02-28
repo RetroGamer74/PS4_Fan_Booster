@@ -14,6 +14,10 @@ In the Exploit Customization tab, you will be able to choose the desired temp.
 
 Remember this temp is a threshold. It means at what temp the fan will start to work. So don't become crazy and take care.
 
+This payload has to be used with PS4ADMIN. If you use it by itself (PS4-fan-control.bin) the default TEMP ( 60 Celsius Degrees ) will be used always.
+
+You need the PS4ADMIN website to inject the param to the payload.
+
 Use this at your own risk. No resposabilities from my side.
 
 Credits
